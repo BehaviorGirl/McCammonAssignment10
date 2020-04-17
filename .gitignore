@@ -3,3 +3,5 @@
 .RData
 .RHistory
 .html
+
+*.html
