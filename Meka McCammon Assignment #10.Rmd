@@ -1,0 +1,15 @@
+---
+title: "Meka McCammon Assignment 10"
+date: "17 April 2020"
+output: html_notebook
+---
+
+This notebook includes the analysis of the Johnson Elementary ELA Project Data for Assignment #10 
+
+```{r}
+library(tidyverse)
+library(here)
+
+jep.data
+```
+
